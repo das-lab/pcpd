@@ -21,4 +21,4 @@ When the paper is published, you can use the reference.
 
 ### Notice
 
-If you would like to use IIExtractor or the packages we found, please contact us using your institutional email to get the password.
+If you would like to use IIExtractor or the packages we found, please contact us using your institutional email to get the password. Corresponding email: opcodesec[AT]gmail.com
